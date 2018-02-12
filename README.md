@@ -14,4 +14,6 @@ Repository of course materials for COLL C-105: Prediction, Probability, and Pigs
 6. /scraping
 ... A core feature of C105 was that students had access to up-to-date well-organized football data.  This dataset was created by scraping (using Python scripts and relying heavily on the BeautifulSoup library) HTML pages downloaded from ESPN.com.  There's a readme file in the scraping folder that gives more context.
 
+This repository does not include the required readings, many of which are copyrighted and were only available through IU library access.  This repository also does not include the dataset produced by the scraping tools, which is too big for Github (plus, I happen to've misplaced it).  
+
 I hope this is helpful to you.  I do not intend to maintain or update this repository.  I had a good run with C105.
